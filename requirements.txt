@@ -2,4 +2,4 @@ Flask
 joblib
 textblob
 numpy
-sklearn
+scikit-learn
